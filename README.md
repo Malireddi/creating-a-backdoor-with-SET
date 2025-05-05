@@ -47,14 +47,9 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 ![7](https://github.com/user-attachments/assets/9255140d-5ed5-404e-bbdc-d561c251f3cf)
 
-### In windows IE, on giving the url http://192.168.74.***, the fake Google page is displayed. The victim can enter the username and password
+### In windows IE, on giving the url http://192.168.25.***, the fake Google page is displayed. The victim can enter the username and password
 ![8](https://github.com/user-attachments/assets/889b0361-824d-4016-aa22-0f35a89eed29)
 
-### SET logs the information regarding the Google credentials:
-![9](https://github.com/user-attachments/assets/6593b6e1-2e2e-44db-9319-cddb52748c39)
-
-### SET logs the information in the xml file under /root/.set directory:
-![10](https://github.com/user-attachments/assets/f1779572-cb0f-40ed-a1fe-2c2c4898117e)
 
 
 
