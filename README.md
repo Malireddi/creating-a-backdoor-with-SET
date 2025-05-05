@@ -26,10 +26,10 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 ### It displays the following menu and select 2 for Website Attack Vectors:
 
-![2](https://github.com/user-attachments/assets/c5c6b2dd-5d2f-465b-ad26-679adde44069)
+![WhatsApp Image 2025-05-05 at 10 47 01_27b5799e](https://github.com/user-attachments/assets/9ab4ab78-f198-4aaf-a14a-c72da6e3e07c)
 
 ### The website Attack Vectors displays the following menu. In this menu3 for Credential Harvester Attack Method is selected:
-![3](https://github.com/user-attachments/assets/ba03ce43-7b42-40e0-9778-c1c5c6a342e5)
+![WhatsApp Image 2025-05-05 at 10 48 23_10c56e12](https://github.com/user-attachments/assets/fb3d9cb4-2fae-4507-817d-a3acf3ce4e22)
 
 ### The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
 
@@ -37,18 +37,18 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 ### It shows the following screen in which the ip address of the attacker need to be given which is the default value:
 
-![5](https://github.com/user-attachments/assets/9f178493-578a-47df-9d15-feac3665fca2)
+![WhatsApp Image 2025-05-05 at 10 49 11_25f36169](https://github.com/user-attachments/assets/1c82381e-40b0-4b1d-b86f-220ac287cb74)
 
 ### It shows the following screen in which the option Google can be selected
 
-![6](https://github.com/user-attachments/assets/0f1748e3-9d60-49de-8069-24be0e225bd3)
+![WhatsApp Image 2025-05-05 at 10 50 22_4f03ab8f](https://github.com/user-attachments/assets/e5fbb7cb-f713-4b74-84f8-4ab9df05e31f)
 
 ### SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
 
-![7](https://github.com/user-attachments/assets/9255140d-5ed5-404e-bbdc-d561c251f3cf)
+![WhatsApp Image 2025-05-05 at 10 55 00_200e4490](https://github.com/user-attachments/assets/ca1dc124-4f39-4e10-8273-45e3e65ec18d)
 
 ### In windows IE, on giving the url http://192.168.25.***, the fake Google page is displayed. The victim can enter the username and password
-![8](https://github.com/user-attachments/assets/889b0361-824d-4016-aa22-0f35a89eed29)
+![WhatsApp Image 2025-05-05 at 10 56 34_96b9d118](https://github.com/user-attachments/assets/c197c226-0ef9-4724-bb46-72f79fe1839d)
 
 
 
